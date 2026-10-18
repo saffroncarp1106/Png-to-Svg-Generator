@@ -6,13 +6,13 @@ Uses, Pillow, NumPy, Shapely
 # To Run
 1. Install dependencies:
 
-python -m pip install -r requirements-tracing.txt
+<code>python -m pip install -r requirements-tracing.txt</code>
 
 2. Put PNG files in the picture folder.
 
 3. Run the tracer:
 
-python trace_pngs.py
+<code>python trace_pngs.py</code>
 
 Results are saved automatically in output/.
 
